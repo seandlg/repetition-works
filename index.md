@@ -74,14 +74,14 @@ Now, with this information in mind, please try repeating the affirmations above 
 
 ## SRT in a nutshell
 
-Go back to the negative beliefs you have identified in *Where to start*. Choose the belief that you think is the most important one for you. Change the sentence from a negative to a positive one. For example, change *"I am an impostor at work"* to *"I deserve my position at work"*. This will be your **key affirmation**.
+Go back to the negative beliefs you have identified in *Where to start*. Choose the belief that you think is the most important one for you. Change the sentence from a negative to a positive one. For example, change *"I am an impostor at work"* to *"I deserve my position at work"*. This will be your **base affirmation**.
 
-Now, take a new page, and write your key affirmation on the top of the page. Draw a line under it, and separate it from the rest of the page. Under the key affirmation, you will come up with a list of 10 **supporting affirmations** that are related to it (they also need to be positive, of course). These can be variations of the first sentence, or evidence from your life that support it. Here is an example:
+Now, take a new page, and write your base affirmation on the top of the page. Draw a line under it, and separate it from the rest of the page. Under the base affirmation, you will come up with a list of 10 **supporting affirmations** that are related to it (they also need to be positive, of course). These can be variations of the first sentence, or evidence from your life that support it. Here is an example:
 
-<table class="update-sheet">
+<table class="belief-sheet">
 <tr>
 <th>
-Key: I deserve my position at work.
+Base: I deserve my position at work.
 </th>
 </tr>
 <tr>
@@ -102,33 +102,39 @@ Key: I deserve my position at work.
 </tr>
 </table>
 
-We call this the update sheet, making an analogy to how software gets updated. Through consistent effort, negative beliefs can be massaged into positive ones.
+We call this the **belief sheet**. Through consistent effort, negative beliefs can be massaged into positive ones, like those in this sheet.
 
 To use the sheet:
 
 1. Find a quiet place to meditate.
 1. Sit in an upright Lotus position if you can—otherwise, find a comfortable chair and sit in an upright position.
 1. Try to relax if you can, but don’t be too relaxed, since the exercise requires focus and attention.
-1. Hold the page in front of you, and say the key affirmation out loud. Notice how you react to the idea.
+1. Hold the page in front of you, and say the base affirmation out loud. Notice how you react to the idea.
 1. You will most likely experience an uncomfortable feeling. It is called [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance), and we get it when we encounter something that contradicts our current beliefs. It is completely normal---just acknowledge it, and move onto the next step.
 1. Start going through the supporting affirmations one by one, saying each one out loud. Give yourself time in between to acknowledge and feel each statement.
 1. Once you arrive at the last affirmation, return to the beginning of the page. This was the first loop.
-1. Repeat the key affirmation twice this time.
+1. Repeat the base affirmation twice this time.
 1. Repeat step 6.
-1. Repeat the key affirmation 3 times.
+1. Repeat the base affirmation 3 times.
 1. Repeat step 6.
-1. Repeat the key affirmation 4 times.
+1. Repeat the base affirmation 4 times.
 1. Repeat step 6.
-1. Repeat the key affirmation 5 times.
+1. Repeat the base affirmation 5 times.
 1. Repeat step 6.
 
-In the end, you will have repeated the key affirmation 15 times, and each supporting affirmation 5 times, adding up to 65 repetitions. Congratulate yourself for coming this far.
+In the end, you will have repeated the base affirmation 15 times, and each supporting affirmation 5 times, adding up to 65 repetitions. Congratulate yourself for coming this far.
 
-Note your feelings upon completing the therapy. One of the best features of SRT is **immediate feedback**. You might be feeling optimistic and hopeful. You might also be feeling something you do not feel so often: *the possibility of change, for the better*.
+Note your feelings upon completing the therapy. One of the best features of SRT is **instant feedback**. You might be feeling optimistic and hopeful. You might also be feeling something you do not feel so often: *the possibility of change, for the better*.
 
-Don’t lose the update sheet, and preserve it in a folder. You can also use a notebook if you like. For each new update sheet, repeat this process everyday for at least 6 months. You will probably notice some results before that. Still, prior experience shows that on average, 6 months are required to induce a permanent change in the human mind.
+Don’t lose the belief sheet, and preserve it in a folder. You can also use a notebook if you like. For each new belief sheet, repeat this process everyday for at least 6 months. You will probably notice some results before that. Still, prior experience shows that on average, 6 months are required to induce a permanent change in the human mind.
 
 TBD
+
+## About
+
+This is an undertaking by [Onur Solmaz](https://twitter.com/OnurHSolmaz) to make Cognitive Behavioral Therapy cheaper to attain (free), easier to apply and generally more accessible to the masses. His goal is to turn it into a global movement and benefit billions of people.
+
+You can view the source of this website on [GitHub](http://github.com/osolmaz/repetition-works/). You can also give feedback by creating an [issue](https://github.com/osolmaz/repetition-works/issues) and contribute to the website by creating a pull request.
 
 <!-- [RSS feed](/feed.xml) -->
 
