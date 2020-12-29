@@ -3,5 +3,132 @@ layout: default
 title: Repetition Works
 ---
 
-[RSS feed](/feed.xml)
+A [belief](https://en.wikipedia.org/wiki/Belief) is an attitude that something is the case, or that some proposition about the world is true. The information about the proposition and its truth value are all stored in the biological tissue of the human brain.
+
+In this work, we will outline a new form of [Cognitive Behavioral Therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) that is specialized for adopting new beliefs and modifying existing ones. This guide is meant for self-administration, that is, changing one's own beliefs.
+
+The biology of the human brain makes it possible to believe in anything. We will not go into the detail of what "true" is and how it is perceived---we assume that the feeling of trueness is evident to the reader. Here are the only biological facts that need to be known:
+
+- The brain is composed of specialized cells called neurons.
+- Information is encoded in brain tissue through the connections they make with each other. This also includes beliefs.
+- The more a group of neurons (called a neural circuit) are activated, the stronger the connection between them becomes.
+- In order to activate a neural circuit encoding a specific information, you just need to recall that information. Recalling can be triggered with verbal cues.
+
+That's it. When the neural circuit encodes a belief, you can make it stronger by repeating it verbally, either through the [inner](https://en.wikipedia.org/wiki/Internal_monologue) or outer voice. This strengthens the connections in the neural circuit and makes it last longer. This is called [neuroplasticity](https://en.wikipedia.org/wiki/Neuroplasticity).
+
+In this article, we devise a scientific methodology that uses repetition-induced neuroplasticity to change the perception and beliefs related to one's own self and the outside world. We call it **Self Repetition Therapy**, or **SRT** for short. SRT uses introspection and affirmations to achieve long-lasting positive effects on the individual's mind.
+
+## Who it is intended for
+
+If you want to change a certain belief about yourself or the outside world but don't know where to start, this can work for you. For SRT to work, you must be ready and willing to change your beliefs. Otherwise, it will not be possible to achieve lasting effects.
+
+## Where to start
+
+Ask yourself:
+
+- What is that thing that I showed a desire towards recently, but did not attempt to do, or make it a reality?
+- What are the views that might be holding me back in life?
+- Is there anything that I want more of, but feel that I can't get?
+- Who are my role models, and do I believe that I could be more successful than them, given the opportunity?
+
+Write the answers down, and try to obtain propositions for beliefs that might be limiting you. These beliefs generally come in the form: *"I am not X"*, *"I cannot do X"*, or *"I do not deserve X"*. Some generic examples are *"I am not smart"*, *"I cannot do a good job"*, or *"I do not deserve love"*. Try to be honest with yourself, and try not to take these negative statements personally. Every belief can be changed with time, and the first step is the hardest.
+
+## "That's bullshit. People don't change."
+
+No, it's not bullshit, and yes, people can change---but only when they want to. Trying to believe in something new or something which contradicts your existing beliefs is similar to [pulling yourself up by your own bootstraps](https://en.wikipedia.org/wiki/Bootstrapping). If you are 100% sure that you want to change, but don't believe that SRT could work for you, we would like to invite you to an experiment. (If you do believe that SRT can work for you, you can skip to the next section.)
+
+Below are 10 affirmations that contain scientific facts about psychology, and physiology of the brain. Please find a place where you can read these out loud to yourself, and proceed to do so.
+
+1. The human mind can be trained to be more positive.
+1. It is scientifically proven that by repeating actions, we make neural connections in our brains stronger.
+1. Repetition is the most powerful tool for breaking out of self-fulfilling prophecies.
+1. Neurons in the brain can be remolded regardless of age or experience.
+1. I am increasing neuroplasticity in my brain as I repeat this statement.
+1. I see that if I did this for a very long time, I could induce a permanent change in my beliefs for the better.
+1. Belief does not have to be religious, mystical or mythological.
+1. Belief and doubt can work hand in hand, allowing me to unlock my true potential for love, wealth and happiness.
+1. I choose to believe in myself, and my power to change the neurological structure of my brain for the better.
+1. Self Repetition Therapy is backed by scientific evidence, and it works.
+
+Congratulations for coming this far! Now, take a moment to note how you feel. You might be feeling awkward, because certain cultures condemn talking to oneself out loud. You might also be feeling skeptical of, or even uneasy about what you have just read. If that is the case, there is a high chance you are experiencing [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance). It is the unpleasant feeling we get when we encounter something that contradicts our current beliefs. You can assure yourself about the scientific quality of these statements by taking a look at the following references:
+
+> <a href="https://pubmed.ncbi.nlm.nih.gov/18230848/" target="_blank">Kleim JA, Jones TA, *Principles of experience-dependent neural plasticity: implications for rehabilitation after brain damage*, J Speech Lang Hear Res. 2008 Feb; 51(1):225-39</a>
+>
+> **Principle 4: Repetition Matters**
+>
+> Simply engaging a neural circuit in task performance is not sufficient to drive plasticity (see *Principle 3: Specificity section*). Repetition of a newly learned (or relearned) behavior may be required to induce lasting neural changes. For example, rats trained on a skilled reaching task do not show increases in synaptic strength (Monfils & Teskey, 2004), increases in synapse number, or map reorganization (Kleim et al., 2004) until after several days of training, despite making significant behavioral gains. Thus, some forms of plasticity require not only the acquisition of a skill but also the continued performance of that skill over time. It is hypothesized that the plasticity brought about through repetition represents the instantiation of skill within neural circuitry, making the acquired behavior resistant to decay in the absence of training (Monfils et al., 2005). The same phenomenon has been observed in studies of electrical stimulation–induced increases in synaptic strength within cortex.
+>
+>[...]
+>
+> The role of repetition in driving plasticity and concomitant learning may be critical for rehabilitation. Plasticity may represent a surrogate marker of functional recovery indicative of behavioral change that is resistant to decay. We suggest that a sufficient level of rehabilitation is likely to be required in order to get the subject “over the hump”—that is, repetition may be needed to obtain a level of improvement and brain reorganization sufficient for the patient to continue to use the affected function outside of therapy and to maintain and make further functional gains.
+
+and
+
+> <a href="https://journals.sagepub.com/doi/abs/10.1177/0963721419827854" target="_blank">Unkelbach C, Koch A, Silva RR, Garcia-Marques T., *Truth by Repetition: Explanations and Implications*. Current Directions in Psychological Science. 2019;28(3):247-253.</a>
+>
+> No matter which mental processes may underlie the repetition-induced truth effect, on a functional level, repetition increases subjective truth. The effect's robustness may be worrisome if one considers that information nowadays is not randomly but strategically repeated. For example, the phenomenon of the "filter bubble" (Pariser, 2011) suggests that people get verbatim and paraphrased repetition only of what they already know and believe. As discussed, logically, this should not strengthen information's subjective truth. However, as discussed above, repetition does influence subjective truth psychologically.
+
+<!-- - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027716303110" target="_blank">Unkelbach C, Rom SC, *A referential theory of the repetition-induced truth effect*, Cognition 2017 Mar; 160: p110-126</a> -->
+
+Now, with this information in mind, please try repeating the affirmations above one more time. Note any difference, like whether it gets easier this time. Feel free to repeat them as much as you would like, and then proceed to the next section.
+
+## SRT in a nutshell
+
+Go back to the negative beliefs you have identified in *Where to start*. Choose the belief that you think is the most important one for you. Change the sentence from a negative to a positive one. For example, change *"I am an impostor at work"* to *"I deserve my position at work"*. This will be your **key affirmation**.
+
+Now, take a new page, and write your key affirmation on the top of the page. Draw a line under it, and separate it from the rest of the page. Under the key affirmation, you will come up with a list of 10 **supporting affirmations** that are related to it (they also need to be positive, of course). These can be variations of the first sentence, or evidence from your life that support it. Here is an example:
+
+<table class="update-sheet">
+<tr>
+<th>
+Key: I deserve my position at work.
+</th>
+</tr>
+<tr>
+<td>
+<ol>
+<li> I already convinced people that I can do this at the interview. </li>
+<li> I was successful at school, so I can also be successful here. </li>
+<li> Nobody is born with prior knowledge of work. </li>
+<li> Everybody starts as a blank slate at a position they have never been before. </li>
+<li> Before you know how to do something, you don’t. </li>
+<li> Learning is a part of the process. </li>
+<li> Everybody fakes it until they make it—It is how things go. </li>
+<li> I learned X, I can also learn Y. </li>
+<li> I will have learned many things in a few months’ time, and won’t be feeling like this. </li>
+<li> This fear shows me that I care about my job, and that is why I will succeed. </li>
+</ol>
+</td>
+</tr>
+</table>
+
+We call this the update sheet, making an analogy to how software gets updated. Through consistent effort, negative beliefs can be massaged into positive ones.
+
+To use the sheet:
+
+1. Find a quiet place to meditate.
+1. Sit in an upright Lotus position if you can—otherwise, find a comfortable chair and sit in an upright position.
+1. Try to relax if you can, but don’t be too relaxed, since the exercise requires focus and attention.
+1. Hold the page in front of you, and say the key affirmation out loud. Notice how you react to the idea.
+1. You will most likely experience an uncomfortable feeling. It is called [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance), and we get it when we encounter something that contradicts our current beliefs. It is completely normal---just acknowledge it, and move onto the next step.
+1. Start going through the supporting affirmations one by one, saying each one out loud. Give yourself time in between to acknowledge and feel each statement.
+1. Once you arrive at the last affirmation, return to the beginning of the page. This was the first loop.
+1. Repeat the key affirmation twice this time.
+1. Repeat step 6.
+1. Repeat the key affirmation 3 times.
+1. Repeat step 6.
+1. Repeat the key affirmation 4 times.
+1. Repeat step 6.
+1. Repeat the key affirmation 5 times.
+1. Repeat step 6.
+
+In the end, you will have repeated the key affirmation 15 times, and each supporting affirmation 5 times, adding up to 65 repetitions. Congratulate yourself for coming this far.
+
+Note your feelings upon completing the therapy. One of the best features of SRT is **immediate feedback**. You might be feeling optimistic and hopeful. You might also be feeling something you do not feel so often: *the possibility of change, for the better*.
+
+Don’t lose the update sheet, and preserve it in a folder. You can also use a notebook if you like. For each new update sheet, repeat this process everyday for at least 6 months. You will probably notice some results before that. Still, prior experience shows that on average, 6 months are required to induce a permanent change in the human mind.
+
+TBD
+
+<!-- [RSS feed](/feed.xml) -->
 
