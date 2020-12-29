@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="page">
+  <header>
+  <h1 class="page-title">{{ page.title }}&nbsp<a class="title-return" href="{{ '/' | absolute_url }}">⤶</a></h1>
+  {% if page.date %}<p class="meta">{{ page.date | date: "%b %-d, %Y" }}</p>{% endif %}
+  </header>
+  <article>
+{{ content }}
+  </article>
+  {% if page.comments %}
+  {% include disqus.html %}
+  {% endif %}
+</div>
+

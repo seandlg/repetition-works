@@ -1,0 +1,24 @@
+# Site settings
+title: Repetition Works
+# email:
+description: "A revolution in self-help"
+url: "https://repetition.works"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+
+# configure kramdown
+kramdown:
+  parse_block_html: true
+
+highlighter: rouge
+
+
+excerpt_separator: <!--more-->
