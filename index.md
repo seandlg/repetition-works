@@ -126,20 +126,30 @@ In the end, you will have repeated the base affirmation 15 times, and each suppo
 
 Note your feelings upon completing the therapy. One of the best features of SRT is **instant feedback**. You might be feeling optimistic and hopeful. You might be feeling something you do not feel so often: *the possibility of change, for the better*.
 
-You might also be feeling awkward, uncomfortable or indifferent. No method is perfect and works on 100% of the people. Some therapies require consistent effort in order to observe the positive effects. If that is the case, we would enjoy hearing your experience and feedback [by email](mailto:onur@solmaz.io). You can also take a look at the section [Negative Reactions and Cognitive Dissonance](#negative-reactions-and-cognitive-dissonance).
+You might also be feeling awkward, uncomfortable or indifferent. No method is perfect and works on all cases. Some cases may require multiple sessions before positive effects can be observed. If that is/was the case, we would enjoy hearing [your experience and feedback](mailto:onur@solmaz.io).
 
 Don't lose the belief sheet, and preserve it in a folder. You can also use a notebook if you like. For each new belief sheet, repeat this process everyday for at least 6 months. You will probably notice some results before that. Still, prior experience shows that on average, 6 months are required to induce a permanent change in the human mind.
 
+## Negative reactions and extreme cognitive dissonance
+
+Depending on the belief that is being massaged, the intensity of cognitive dissonance might exist on a scale from mild to extreme. It is absolutely necessary for the individual to receive the therapy in a trusted environment, to feel safe and secure. If the therapy triggers a state of extreme disturbance and causes pain, it should stop!
+
+It is important to understand that all beliefs exist for a reason---even negative ones. If someone holds onto a negative belief despite the harm it brings to their life, the belief is probably linked to a past trauma, which can be a source of great fear. In such cases, the trauma must be handled first, before the belief can change.
+
+Moreover, the human stress response has evolved to ensure survival, even though it could cost the individual their wellbeing in the long term. Individuals that come from difficult backgrounds would find a lot of evidence that chronic negativity, mistrust and stress work in their favor, compelling them to do what is necessary to survive. Not only such cases need to enter a completely safe environment in order to change, they might take a long time to show progress, as the fear that hinders their positivity is the greatest of them all: the fear of death.
+
+SRT is most helpful to those who are consciously willing to change, but do not know how to. It might still be helpful to those who have the potential to change, but are not conscious of it. Finally, it might do harm to those who are not ready to change. As with any psychological intervention, it should never be forced onto someone.
+
 ## What belief really is
 
-At the introduction, we said that a belief is an attitude that some proposition about the world is true, which is stored in brain tissue. That is just the tip of the iceberg. What is more important than the neurobiology of belief is how it comes into existence. Just as how the external world imprints mind through the senses, the mechanisms that create belief extend beyond the cranium. Beliefs are as related to the environment as they are to the world within.
+At the introduction, we said that a belief is an attitude that some proposition about the world is true, which is stored in brain tissue. That is just the tip of the iceberg. What is more important than the neurobiology of belief is how it comes into existence. Just as how the external world imprints the mind through the senses, the mechanisms that create belief extend beyond the cranium. Beliefs are as related to the environment as they are to the world within:
 
 <figure>
 ![](/public/img/fig1.svg)
 Figure 1: How certain beliefs about one's self come into existence.
 </figure>
 
-Once verbalized, the belief immediately starts to influence the actions of the individual. If its effects on the outside world are aligned with itself, the belief gets strengthened. If it survives this process enough times, it becomes deeply ingrained within the individual's psyche. In psychology, these are called core beliefs. Some *core beliefs*, especially subjective ones, are considered to be [self-fulfilling prophecies](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy). Mathematically speaking, such beliefs are positive feedback loops:
+Once verbalized, the belief immediately starts to influence the actions of the individual. If its effects on the outside world are aligned with itself, the belief gets strengthened. If it survives this process enough times, it becomes deeply ingrained within the individual's psyche. In psychology, these are called core beliefs. Some *core beliefs*, especially subjective ones, are considered to be [self-fulfilling prophecies](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy). Mathematically speaking, such beliefs are [positive feedback loops](https://en.wikipedia.org/wiki/Positive_feedback):
 
 <figure>
 <img style="width:60%;" src="/public/img/ideal_feedback_model.svg" />
@@ -149,19 +159,19 @@ Figure 2: A block diagram of a positive feedback loop. In this context, A: belie
 Though the following figure is used more commonly in psychology and is easier to understand:
 
 <figure>
-<img style="width:60%;" src="/public/img/fig2.svg" />
+<img style="width:70%;" src="/public/img/fig2.svg" />
 Figure 3: How a self-fulfilling prophecy perpetuates itself.
 </figure>
 
-SRT works by weakening this feedback loop at the top. Once thoughts change, behavior changes too, and the loop is eventually broken.
+SRT works by weakening this feedback loop at the top. Thoughts change first, followed by change in the behavior. Eventually, most negative beliefs can be completely neutralized.
 
 ## Relation to Cognitive Behavioral Therapy
 
 The concepts we present here are not new. [Cognitive Behavioral Therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) has a long history of research and development, focusing on breaking out of negative belief patterns through affecting *thinking* and *behavior* (hence the name *Cognitive*-*Behavioral* Therapy).
 
-An emergent property of human nature is that it is much easier to influence thought, than to influence behavior. Information-theoretically speaking, a verbal proposition is less dense than a behavior. Compare a tweet, which takes only a few hundred bytes, to a movie, which takes a couple of gigabytes. Therefore, it is much easier to leverage verbal propositions, than to teach a person how to behave in a certain way. SRT accepts this fact and uses it pragmatically.
+A feature of human nature is that it is much easier to influence thought, than to influence behavior. Information-theoretically speaking, a verbal proposition is less dense than a behavior. Compare a tweet, which takes only a few hundred bytes, to a movie, which takes a couple of gigabytes. Therefore, it is much easier to leverage verbal propositions, than to teach a person how to behave in a certain way. SRT accepts this fact and uses it pragmatically.
 
-We would call our method just Cognitive Therapy, but we do not like obscure terms. "Self Repetition Therapy" is both descriptive easy to understand. It also has the following advantages:
+We would have called our method Cognitive Therapy following the convention, but we do not like obscure terms. "Self Repetition Therapy" is both descriptive easy to understand. It also has the following advantages:
 
 - It requires very little effort from the individual---only a little bit of introspection.
 - Guidance by a mentor is useful, but is not absolutely necessary. Self-administration can be achieved just by following the instructions on this website.
@@ -169,7 +179,7 @@ We would call our method just Cognitive Therapy, but we do not like obscure term
 
 So, SRT is a barebones version of CBT which only focuses on affecting beliefs.
 
-## Negative reactions and cognitive dissonance
+## Doubt and its relation to belief
 
 TBD
 
