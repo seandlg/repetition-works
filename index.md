@@ -7,26 +7,26 @@ A [belief](https://en.wikipedia.org/wiki/Belief) is an attitude that something i
 
 In this work, we will outline a new form of [Cognitive Behavioral Therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) that is specialized for adopting new beliefs and modifying existing ones. This guide is meant for self-administration, that is, changing one's own beliefs.
 
-The biology of the human brain makes it possible to believe in anything. We will not go into the detail of what "true" is and how it is perceived---we assume that the feeling of trueness is evident to the reader. Here are the only biological facts that need to be known:
+The biology of the human brain makes it possible to believe in anything. We will not go into the detail of what "true" is and how it is perceived---we assume that the feeling of trueness is evident to the reader. Just knowing the following biological facts is enough to understand what we present later on:
 
 - The brain is composed of specialized cells called neurons.
 - Information is encoded in brain tissue through the connections they make with each other. This also includes beliefs.
 - The more a group of neurons (called a neural circuit) are activated, the stronger the connection between them becomes.
 - In order to activate a neural circuit encoding a specific information, you just need to recall that information. Recalling can be triggered with verbal cues.
 
-That's it. When the neural circuit encodes a belief, you can make it stronger by repeating it verbally, either through the [inner](https://en.wikipedia.org/wiki/Internal_monologue) or outer voice. This strengthens the connections in the neural circuit and makes it last longer. This is called [neuroplasticity](https://en.wikipedia.org/wiki/Neuroplasticity).
+That's it. When the neural circuit encodes a belief, you can make it stronger by repeating it verbally, either through the [inner](https://en.wikipedia.org/wiki/Internal_monologue) or the outer voice. Doing so strengthens the connections in the neural circuit and makes it last longer. This phenomenon is called [neuroplasticity](https://en.wikipedia.org/wiki/Neuroplasticity).
 
-In this article, we devise a scientific methodology that uses repetition-induced neuroplasticity to change the perception and beliefs related to one's own self and the outside world. We call it **Self Repetition Therapy**, or **SRT** for short. SRT uses introspection and affirmations to achieve long-lasting positive effects on the individual's mind.
+In this work, we devise a scientific methodology that makes use of repetition-induced neuroplasticity in order to change the perception and beliefs related to one's own self and the outside world. We call it **Self Repetition Therapy**, or **SRT** for short. SRT makes use of introspection and affirmations to achieve long-lasting positive effects on the human mind and psyche.
 
 ## Who it is intended for
 
-If you want to change a certain belief about yourself or the outside world but don't know where to start, this can work for you. For SRT to work, you must be ready and willing to change your beliefs. Otherwise, it will not be possible to achieve lasting effects.
+If you want to change a certain belief about yourself or the outside world but don't know where to start, this can work for you. For SRT to work, you should be ready and willing to change your beliefs. Otherwise, it may not be possible to achieve long-lasting effects.
 
 ## Where to start
 
 Ask yourself:
 
-- What is that thing that I showed a desire towards recently, but did not attempt to do, or make it a reality?
+- What is that thing that I showed a desire towards recently, but did not attempt to do, or turn into reality?
 - What are the views that might be holding me back in life?
 - Is there anything that I want more of, but feel that I can't get?
 - Who are my role models, and do I believe that I could be more successful than them, given the opportunity?
@@ -50,7 +50,7 @@ Below are 10 affirmations that contain scientific facts about psychology, and ph
 1. I choose to believe in myself, and my power to change the neurological structure of my brain for the better.
 1. Self Repetition Therapy is backed by scientific evidence, and it works.
 
-Congratulations for coming this far! Now, take a moment to note how you feel. You might be feeling awkward, because certain cultures condemn talking to oneself out loud. You might also be feeling skeptical of, or even uneasy about what you have just read. If that is the case, there is a high chance you are experiencing [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance). It is the unpleasant feeling we get when we encounter something that contradicts our current beliefs. You can assure yourself about the scientific quality of these statements by taking a look at the following references:
+Congratulations for coming this far! Now, take a moment to note how you feel. You might be feeling awkward, because certain cultures condemn talking to oneself out loud. You might also be feeling skeptical of, or even uneasy about what you have just read. If that is the case, there is a high chance you are experiencing [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance). It is the unpleasant feeling we get when we do or encounter something that contradicts our current beliefs. You can assure yourself about the scientific quality of these statements by taking a look at the following references:
 
 > <a href="https://pubmed.ncbi.nlm.nih.gov/18230848/" target="_blank">Kleim JA, Jones TA, *Principles of experience-dependent neural plasticity: implications for rehabilitation after brain damage*, J Speech Lang Hear Res. 2008 Feb; 51(1):225-39</a>
 >
@@ -91,11 +91,11 @@ Base: I deserve my position at work.
 <li> I was successful at school, so I can also be successful here. </li>
 <li> Nobody is born with prior knowledge of work. </li>
 <li> Everybody starts as a blank slate at a position they have never been before. </li>
-<li> Before you know how to do something, you don’t. </li>
+<li> Before you know how to do something, you don't. </li>
 <li> Learning is a part of the process. </li>
 <li> Everybody fakes it until they make it—It is how things go. </li>
 <li> I learned X, I can also learn Y. </li>
-<li> I will have learned many things in a few months’ time, and won’t be feeling like this. </li>
+<li> I will have learned many things in a few months' time, and won't be feeling like this. </li>
 <li> This fear shows me that I care about my job, and that is why I will succeed. </li>
 </ol>
 </td>
@@ -108,7 +108,7 @@ To use the sheet:
 
 1. Find a quiet place to meditate.
 1. Sit in an upright Lotus position if you can—otherwise, find a comfortable chair and sit in an upright position.
-1. Try to relax if you can, but don’t be too relaxed, since the exercise requires focus and attention.
+1. Try to relax if you can, but don't be too relaxed, since the exercise requires focus and attention.
 1. Hold the page in front of you, and say the base affirmation out loud. Notice how you react to the idea.
 1. You will most likely experience an uncomfortable feeling. It is called [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance), and we get it when we encounter something that contradicts our current beliefs. It is completely normal---just acknowledge it, and move onto the next step.
 1. Start going through the supporting affirmations one by one, saying each one out loud. Give yourself time in between to acknowledge and feel each statement.
@@ -124,9 +124,52 @@ To use the sheet:
 
 In the end, you will have repeated the base affirmation 15 times, and each supporting affirmation 5 times, adding up to 65 repetitions. Congratulate yourself for coming this far.
 
-Note your feelings upon completing the therapy. One of the best features of SRT is **instant feedback**. You might be feeling optimistic and hopeful. You might also be feeling something you do not feel so often: *the possibility of change, for the better*.
+Note your feelings upon completing the therapy. One of the best features of SRT is **instant feedback**. You might be feeling optimistic and hopeful. You might be feeling something you do not feel so often: *the possibility of change, for the better*.
 
-Don’t lose the belief sheet, and preserve it in a folder. You can also use a notebook if you like. For each new belief sheet, repeat this process everyday for at least 6 months. You will probably notice some results before that. Still, prior experience shows that on average, 6 months are required to induce a permanent change in the human mind.
+You might also be feeling awkward, uncomfortable or indifferent. No method is perfect and works on 100% of the people. Some therapies require consistent effort in order to observe the positive effects. If that is the case, we would enjoy hearing your experience and feedback [by email](mailto:onur@solmaz.io). You can also take a look at the section [Negative Reactions and Cognitive Dissonance](#negative-reactions-and-cognitive-dissonance).
+
+Don't lose the belief sheet, and preserve it in a folder. You can also use a notebook if you like. For each new belief sheet, repeat this process everyday for at least 6 months. You will probably notice some results before that. Still, prior experience shows that on average, 6 months are required to induce a permanent change in the human mind.
+
+## What belief really is
+
+At the introduction, we said that a belief is an attitude that some proposition about the world is true, which is stored in brain tissue. That is just the tip of the iceberg. What is more important than the neurobiology of belief is how it comes into existence. Just as how the external world imprints mind through the senses, the mechanisms that create belief extend beyond the cranium. Beliefs are as related to the environment as they are to the world within.
+
+<figure>
+![](/public/img/fig1.svg)
+Figure 1: How certain beliefs about one's self come into existence.
+</figure>
+
+Once verbalized, the belief immediately starts to influence the actions of the individual. If its effects on the outside world are aligned with itself, the belief gets strengthened. If it survives this process enough times, it becomes deeply ingrained within the individual's psyche. In psychology, these are called core beliefs. Some *core beliefs*, especially subjective ones, are considered to be [self-fulfilling prophecies](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy). Mathematically speaking, such beliefs are positive feedback loops:
+
+<figure>
+<img style="width:60%;" src="/public/img/ideal_feedback_model.svg" />
+Figure 2: A block diagram of a positive feedback loop. In this context, A: beliefs and B: actions.
+</figure>
+
+Though the following figure is used more commonly in psychology and is easier to understand:
+
+<figure>
+<img style="width:60%;" src="/public/img/fig2.svg" />
+Figure 3: How a self-fulfilling prophecy perpetuates itself.
+</figure>
+
+SRT works by weakening this feedback loop at the top. Once thoughts change, behavior changes too, and the loop is eventually broken.
+
+## Relation to Cognitive Behavioral Therapy
+
+The concepts we present here are not new. [Cognitive Behavioral Therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) has a long history of research and development, focusing on breaking out of negative belief patterns through affecting *thinking* and *behavior* (hence the name *Cognitive*-*Behavioral* Therapy).
+
+An emergent property of human nature is that it is much easier to influence thought, than to influence behavior. Information-theoretically speaking, a verbal proposition is less dense than a behavior. Compare a tweet, which takes only a few hundred bytes, to a movie, which takes a couple of gigabytes. Therefore, it is much easier to leverage verbal propositions, than to teach a person how to behave in a certain way. SRT accepts this fact and uses it pragmatically.
+
+We would call our method just Cognitive Therapy, but we do not like obscure terms. "Self Repetition Therapy" is both descriptive easy to understand. It also has the following advantages:
+
+- It requires very little effort from the individual---only a little bit of introspection.
+- Guidance by a mentor is useful, but is not absolutely necessary. Self-administration can be achieved just by following the instructions on this website.
+- It is free.
+
+So, SRT is a barebones version of CBT which only focuses on affecting beliefs.
+
+## Negative reactions and cognitive dissonance
 
 TBD
 
