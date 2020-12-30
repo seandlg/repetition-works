@@ -187,7 +187,7 @@ TBD
 
 This is an undertaking by [Onur Solmaz](https://twitter.com/OnurHSolmaz) to make Cognitive Behavioral Therapy cheaper to attain (free), easier to apply and generally more accessible to the masses. His goal is to turn it into a global movement and benefit billions of people.
 
-You can view the source of this website on [GitHub](http://github.com/osolmaz/repetition-works/). You can also give feedback by creating an [issue](https://github.com/osolmaz/repetition-works/issues) and contribute to the website by creating a pull request.
+You can view the source of this website on [GitHub](https://github.com/osolmaz/repetition-works/). You can also give feedback by creating an [issue](https://github.com/osolmaz/repetition-works/issues) and contribute to the website by creating a pull request.
 
 <!-- [RSS feed](/feed.xml) -->
 
