@@ -102,7 +102,7 @@ Base: I deserve my position at work.
 </tr>
 </table>
 
-We call this the **belief sheet**. Through consistent effort, negative beliefs can be massaged into positive ones, like those in this sheet.
+We call this the **belief sheet**. Through consistent effort, negative beliefs can be massaged into positive ones, like those in this sheet. Think of SRT as a gentle, kind and loving *belief massage*.
 
 To use the sheet:
 

@@ -20,5 +20,6 @@ kramdown:
 
 highlighter: rouge
 
+google_analytics: G-Y9V8ZZLRHM
 
 excerpt_separator: <!--more-->
