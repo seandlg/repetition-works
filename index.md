@@ -5,7 +5,7 @@ title: Repetition Works
 
 A [belief](https://en.wikipedia.org/wiki/Belief) is an attitude that something is the case, or that some proposition about the world is true. The information about the proposition and its truth value are all stored in the biological tissue of the human brain.
 
-In this work, we will outline a new form of [Cognitive Behavioral Therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) that is specialized for adopting new beliefs and modifying existing ones. This guide is meant for self-administration, that is, changing one's own beliefs.
+In this work, we will outline a type of [Cognitive Behavioral Therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) that focuses on adopting new beliefs and modifying existing ones. This guide is meant for self-administration, that is, changing one's own beliefs.
 
 The biology of the human brain makes it possible to believe in anything. We will not go into the detail of what "true" is and how it is perceived---we assume that the feeling of trueness is evident to the reader. Just knowing the following biological facts is enough to understand what we present later on:
 
@@ -16,7 +16,7 @@ The biology of the human brain makes it possible to believe in anything. We will
 
 That's it. When the neural circuit encodes a belief, you can make it stronger by repeating it verbally, either through the [inner](https://en.wikipedia.org/wiki/Internal_monologue) or the outer voice. Doing so strengthens the connections in the neural circuit and makes it last longer. This phenomenon is called [neuroplasticity](https://en.wikipedia.org/wiki/Neuroplasticity).
 
-In this work, we devise a scientific methodology that makes use of repetition-induced neuroplasticity in order to change the perception and beliefs related to one's own self and the outside world. We call it **Self Repetition Therapy**, or **SRT** for short. SRT makes use of introspection and affirmations to achieve long-lasting positive effects on the human mind and psyche.
+In this work, we present a scientific methodology that makes use of repetition-induced neuroplasticity in order to change the perception and beliefs related to one's own self and the outside world. We call it **Self Repetition Therapy**, or **SRT** for short. SRT makes use of introspection and affirmations to achieve long-lasting positive effects on the human mind and psyche.
 
 ## Who it is intended for
 
@@ -60,7 +60,7 @@ Congratulations for coming this far! Now, take a moment to note how you feel. Yo
 >
 >[...]
 >
-> The role of repetition in driving plasticity and concomitant learning may be critical for rehabilitation. Plasticity may represent a surrogate marker of functional recovery indicative of behavioral change that is resistant to decay. We suggest that a sufficient level of rehabilitation is likely to be required in order to get the subject “over the hump”—that is, repetition may be needed to obtain a level of improvement and brain reorganization sufficient for the patient to continue to use the affected function outside of therapy and to maintain and make further functional gains.
+> The role of repetition in driving plasticity and concomitant learning may be critical for rehabilitation. Plasticity may represent a surrogate marker of functional recovery indicative of behavioral change that is resistant to decay. We suggest that a sufficient level of rehabilitation is likely to be required in order to get the subject "over the hump"---that is, repetition may be needed to obtain a level of improvement and brain reorganization sufficient for the patient to continue to use the affected function outside of therapy and to maintain and make further functional gains.
 
 and
 
@@ -93,7 +93,7 @@ Base: I deserve my position at work.
 <li> Everybody starts as a blank slate at a position they have never been before. </li>
 <li> Before you know how to do something, you don't. </li>
 <li> Learning is a part of the process. </li>
-<li> Everybody fakes it until they make it—It is how things go. </li>
+<li> Everybody fakes it until they make it---It is how things go. </li>
 <li> I learned X, I can also learn Y. </li>
 <li> I will have learned many things in a few months' time, and won't be feeling like this. </li>
 <li> This fear shows me that I care about my job, and that is why I will succeed. </li>
@@ -107,7 +107,7 @@ We call this the **belief sheet**. Through consistent effort, negative beliefs c
 To use the sheet:
 
 1. Find a quiet place to meditate.
-1. Sit in an upright Lotus position if you can—otherwise, find a comfortable chair and sit in an upright position.
+1. Sit in an upright Lotus position if you can---otherwise, find a comfortable chair and sit in an upright position.
 1. Try to relax if you can, but don't be too relaxed, since the exercise requires focus and attention.
 1. Hold the page in front of you, and say the base affirmation out loud. Notice how you react to the idea.
 1. You will most likely experience an uncomfortable feeling. It is called [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance), and we get it when we encounter something that contradicts our current beliefs. It is completely normal---just acknowledge it, and move onto the next step.
@@ -134,7 +134,7 @@ Don't lose the belief sheet, and preserve it in a folder. You can also use a not
 
 Depending on the belief that is being massaged, the intensity of cognitive dissonance might exist on a scale from mild to extreme. It is absolutely necessary for the individual to receive the therapy in a trusted environment, to feel safe and secure. If the therapy triggers a state of extreme disturbance and causes pain, it should stop!
 
-It is important to understand that all beliefs exist for a reason---even negative ones. If someone holds onto a negative belief despite the harm it brings to their life, the belief is probably linked to a past trauma, which can be a source of great fear. In such cases, the trauma must be handled first, before the belief can change.
+It is important to understand that all beliefs exist for a reason---even negative ones. If someone holds onto a negative belief despite the harm it brings to their life, the belief is probably linked to a past trauma, which can be a source of great fear. In such cases, the trauma must be treated first, before the belief can change.
 
 Moreover, the human stress response has evolved to ensure survival, even though it could cost the individual their wellbeing in the long term. Individuals that come from difficult backgrounds would find a lot of evidence that chronic negativity, mistrust and stress work in their favor, compelling them to do what is necessary to survive. Not only such cases need to enter a completely safe environment in order to change, they might take a long time to show progress, as the fear that hinders their positivity is the greatest of them all: the fear of death.
 
@@ -163,10 +163,44 @@ Though the following figure is used more commonly in psychology and is easier to
 Figure 3: How a self-fulfilling prophecy perpetuates itself. SRT works by weakening this feedback loop at the top. Thoughts change first, followed by change in the behavior.
 </figure>
 
-Detecting negative self-fulfilling prophecies and creating positive ones is an important skill in life that can be learned, similar to riding a bike or swimming. For it to work, you should make it a habit to always ask the following questions:
+Detecting negative self-fulfilling prophecies and creating positive ones is an important skill in life that can be learned, similar to riding a bike or swimming. To acquire the skill, you can make it a habit to always ask the following questions:
 
 - Does this negative thing in my life exist just because I believe in it?
-- What positive thing should I believe in, so that if I believed it well enough, that thing could turn into reality?
+- What positive thing should I believe in, so that if I believed it well enough, it could turn into reality?
+
+## Belief and Doubt
+
+It is difficult to explain belief and doubt without evoking religious context. Faith's relationship with science has always been a touchy subject. For individuals who have successfully integrated into  organized religion, there is a great disincentive from deconstructing their faith. They not only have difficulty understanding the purpose of skepticism, they are also not free to choose or modify their own faith. Such people could live their whole lives strengthening their faith through repetition, while at the same time remaining oblivious to the machinery that allows them to do so.
+
+Survival of religious societies depends on the instrumentalization of individuals through anti-intellectualization. Although invisible from the inside, religious rules in such societies are *always* built on an economic, even [Darwinian](https://en.wikipedia.org/wiki/Darwinism) framework. Consider he following excerpt from [Debt: The First 5000 Years](https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) which tells us how Christian guilt keeps people in their place.
+
+> As communities grow into kingdoms and kingdoms into universal empires, the gods themselves come to seem more universal, they take on grander, more cosmic pretentions, ruling the heavens, casting thunderbolts---culminating in the Christian god, who, as the maximal deity, necessarily "brought about the maximum feeling of indebtedness on earth." Even our ancestor Adam is no longer figured as a creditor, but as a transgressor, and therefore a debtor, who passes on to us his burden of Original Sin:
+>
+>> Finally, with the impossibility of discharging the debt, people also come up with the notion that it is impossible to remove the penance, the idea that it cannot be paid off ("eternal punishment")...until all of a sudden we confront the paradoxical and horrifying expedient with which a martyred humanity found temporary relief, that stroke of genius of *Christianity*: God sacrificing himself for the guilt of human beings, God paying himself back with himself, God as the only one who can redeem man from what for human beings has become impossible to redeem---the creditor sacrificing himself for the debtor, out of *love* (can people believe that?), out of love for his debtor! *(Nietzsche F, Genealogy of Morals 2.21)*
+
+Irrational, or superstitious beliefs can be held more easily when they serve the society or one's self. People believe what they feel or think will help them. Once a belief stops to be self-serving, it dies. It got much easier to shed irrational beliefs in the hypercompetitive environment of Enlightenment-Age Europe, because technological advancement required a rational understanding of nature.
+
+
+Just as it is hard for religious believers to understand the real nature of faith (because you cannot understand it without deconstructing it, and it stops being a belief once you do that), skeptics in a religious society are also discouraged from discovering it for different, mostly social reasons. Pure believers do not get to experience the virtues of doubt, and pure skeptics do not get to experience the virtues of belief.
+
+
+Hopefully, we were able to make it clear that religious belief is not the only type belief one can hold. In fact, one might find it much easier to establish faith in secular concepts, such as one's self, one's ability to love and one's ability to change.
+
+We also anticipate a wave of criticism against SRT, calling it pseudoscience. Such criticisms are completely justified! In fact, SRT is *meta-scientific*---it relates not only to how we discover truths, but also how we *create* them. To make this easier to understand, we present a possibly oversimplified, but nevertheless practical framework:
+
+### The meta-scientific framework (MSF) of cognitive restructuring
+
+*Belief* and *doubt* are two distinct mental states, or attitudes towards certain *things*. They don't necessarily oppose each other, and can be used on the same *thing* in tandem to reveal and establish new truths.
+
+| Belief | Doubt |
+|-|-|
+| Belief is exercised through *affirmations* (repeating stuff) | Doubt is exercised through *questions* (asking what?, why? and how?) |
+| A *believer* is someone who spends most of their time in the "believing" state | A *skeptic* is someone who spends most of their time in the "doubting" state |
+| Belief *constructs* (subjective) reality | Doubt *deconstructs* (subjective) reality |
+| Belief *establishes* feedback loops | Doubt shows how to *break out* of feedback loops |
+| Belief *creates* truths | Doubt *destroys* old truths and *reveals* new truths |
+
+Thus, we proclaim the two most important *tools* for changing one's own mind: the *question* and the *affirmation*. To change a belief, questioning by itself might not be enough---you might still need to use the belief tool, in order to replace it with another one.
 
 ## Relation to Cognitive Behavioral Therapy
 
@@ -181,10 +215,6 @@ We would have called our method Cognitive Therapy following the convention, but 
 - It is free.
 
 So, SRT is a barebones version of CBT which only focuses on changing beliefs.
-
-## Doubt and its relation to belief
-
-TBD
 
 ## About
 
