@@ -140,7 +140,7 @@ Moreover, the human stress response has evolved to ensure survival, even though 
 
 SRT is most helpful to those who are consciously willing to change, but do not know how to. It might still be helpful to those who have the potential to change, but are not conscious of it. Finally, it might do harm to those who are not ready to change. As with any psychological intervention, it should never be forced onto someone.
 
-## What belief really is
+## Belief as a self-fulfilling prophecy
 
 At the introduction, we said that a belief is an attitude that some proposition about the world is true, which is stored in brain tissue. That is just the tip of the iceberg. What is more important than the neurobiology of belief is how it comes into existence. Just as how the external world imprints the mind through the senses, the mechanisms that create belief extend beyond the cranium. Beliefs are as related to the environment as they are to the world within:
 
@@ -149,7 +149,7 @@ At the introduction, we said that a belief is an attitude that some proposition 
 Figure 1: How certain beliefs about one's self come into existence.
 </figure>
 
-Once verbalized, the belief immediately starts to influence the actions of the individual. If its effects on the outside world are aligned with itself, the belief gets strengthened. If it survives this process enough times, it becomes deeply ingrained within the individual's psyche. In psychology, these are called core beliefs. Some *core beliefs*, especially subjective ones, are considered to be [self-fulfilling prophecies](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy). Mathematically speaking, such beliefs are [positive feedback loops](https://en.wikipedia.org/wiki/Positive_feedback):
+Once verbalized, the belief immediately starts to influence the actions of the individual. If its effects on the outside world confirm it, it gets stronger. If it gets tested and survives enough times, it becomes deeply ingrained in the individual's psyche. In psychology, these are called *core beliefs*. Some core beliefs, especially subjective ones, are considered to be [self-fulfilling prophecies](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy). Mathematically speaking, such beliefs are [positive feedback loops](https://en.wikipedia.org/wiki/Positive_feedback):
 
 <figure>
 <img style="width:60%;" src="/public/img/ideal_feedback_model.svg" />
@@ -160,10 +160,13 @@ Though the following figure is used more commonly in psychology and is easier to
 
 <figure>
 <img style="width:70%;" src="/public/img/fig2.svg" />
-Figure 3: How a self-fulfilling prophecy perpetuates itself.
+Figure 3: How a self-fulfilling prophecy perpetuates itself. SRT works by weakening this feedback loop at the top. Thoughts change first, followed by change in the behavior.
 </figure>
 
-SRT works by weakening this feedback loop at the top. Thoughts change first, followed by change in the behavior. Eventually, most negative beliefs can be completely neutralized.
+Detecting negative self-fulfilling prophecies and creating positive ones is an important skill in life that can be learned, similar to riding a bike or swimming. For it to work, you should make it a habit to always ask the following questions:
+
+- Does this negative thing in my life exist just because I believe in it?
+- What positive thing should I believe in, so that if I believed it well enough, that thing could turn into reality?
 
 ## Relation to Cognitive Behavioral Therapy
 
@@ -177,7 +180,7 @@ We would have called our method Cognitive Therapy following the convention, but 
 - Guidance by a mentor is useful, but is not absolutely necessary. Self-administration can be achieved just by following the instructions on this website.
 - It is free.
 
-So, SRT is a barebones version of CBT which only focuses on affecting beliefs.
+So, SRT is a barebones version of CBT which only focuses on changing beliefs.
 
 ## Doubt and its relation to belief
 
