@@ -140,6 +140,32 @@ Moreover, the human stress response has evolved to ensure survival, even though 
 
 SRT is most helpful to those who are consciously willing to change, but do not know how to. It might still be helpful to those who have the potential to change, but are not conscious of it. Finally, it might do harm to those who are not ready to change. As with any psychological intervention, it should never be forced onto someone.
 
+## Tone escalation
+
+When your beliefs begin to change, you might start to see certain signs. One of the most obvious signs is **tone escalation**. It is when you realize that you may have downplayed your affirmations, and change them into more positive ones.
+
+> **Example:** Demi did not use to believe that he could resist distractions or retain focus for a long time. In order to change that belief, he wrote the following affirmations:
+>
+> - I *am able to* say no to distractions.
+> - I *am able to* focus on the task at hand for long periods of time.
+>
+> Five days of daily practice later, he realized that he was downplaying his initial expectations of himself, and wanted to change them to a more positive tone:
+>
+> - I *am good at* saying no to distractions.
+> - I *am good at* focusing on the task at hand for long periods of time.
+
+This is very typical of SRT, and it shows you that you are on the right path. The stronger your belief gets, the higher you move up the positivity scale:
+
+| To do | To be |
+|-|-|
+| I can do ___ | I can be ___ |
+| I will do ___ | I will be ___ |
+| I am doing ___ | I am ___ |
+| I have already done ___ | I have always been ___ |
+| I will always do ___ | I will always be ___ |
+
+This progression is also similar to how the famous [foot-in-the-door](https://en.wikipedia.org/wiki/Foot-in-the-door_technique) sales technique works. Before we can accept the most positive affirmation, we instinctively start out with a more modest one, in order to minimize cognitive dissonance. Moreover, going over these affirmations in that order is a very good exercise for transitioning the reflex of going from negative beliefs to positive ones.
+
 ## Belief as a self-fulfilling prophecy
 
 At the introduction, we said that a belief is an attitude that some proposition about the world is true, which is stored in brain tissue. That is just the tip of the iceberg. What is more important than the neurobiology of belief is how it comes into existence. Just as how the external world imprints the mind through the senses, the mechanisms that create belief extend beyond the cranium. Beliefs are as related to the environment as they are to the world within:
@@ -184,7 +210,7 @@ Irrational, or superstitious beliefs can be held more easily when they serve the
 Just as it is hard for religious believers to understand the real nature of faith (because you cannot understand it without deconstructing it, and it stops being a belief once you do that), skeptics in a religious society are also discouraged from discovering it for different, mostly social reasons. Pure believers do not get to experience the virtues of doubt, and pure skeptics do not get to experience the virtues of belief.
 
 
-Hopefully, we were able to make it clear that religious belief is not the only type belief one can hold. In fact, one might find it much easier to establish faith in secular concepts, such as one's self, one's ability to love and one's ability to change.
+Hopefully, we were able to make it clear that religious belief is not the only type of belief. In fact, one might find it much easier to establish faith in secular concepts, such as one's self, one's ability to love and one's ability to change.
 
 We also anticipate a wave of criticism against SRT, calling it pseudoscience. Such criticisms are completely justified! In fact, SRT is *meta-scientific*---it relates not only to how we discover truths, but also how we *create* them. To make this easier to understand, we present a possibly oversimplified, but nevertheless practical framework:
 
@@ -198,7 +224,7 @@ We also anticipate a wave of criticism against SRT, calling it pseudoscience. Su
 | A *believer* is someone who spends most of their time in the "believing" state | A *skeptic* is someone who spends most of their time in the "doubting" state |
 | Belief *constructs* (subjective) reality | Doubt *deconstructs* (subjective) reality |
 | Belief *establishes* feedback loops | Doubt shows how to *break out* of feedback loops |
-| Belief *creates* truths | Doubt *destroys* old truths and *reveals* new truths |
+| Belief *creates* truths | Doubt *destroys* existing truths and *reveals* new truths |
 
 Thus, we proclaim the two most important *tools* for changing one's own mind: the *question* and the *affirmation*. To change a belief, questioning by itself might not be enough---you might still need to use the belief tool, in order to replace it with another one.
 

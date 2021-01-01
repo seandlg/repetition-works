@@ -23,6 +23,10 @@ figure img {
     max-width: 100%;
 }
 
+td, th {
+    padding: 0.5em;
+}
+
 .title-return {
     font-size: 60%;
 }
