@@ -164,7 +164,7 @@ This is very typical of SRT, and it shows you that you are on the right path. Th
 | I have already done ___ | I have always been ___ |
 | I will always do ___ | I will always be ___ |
 
-This progression is also similar to how the famous [foot-in-the-door](https://en.wikipedia.org/wiki/Foot-in-the-door_technique) sales technique works. Before we can accept the most positive affirmation, we instinctively start out with a more modest one, in order to minimize cognitive dissonance. Moreover, going over these affirmations in that order is a very good exercise for transitioning the reflex of going from negative beliefs to positive ones.
+This progression is also similar to how the famous [foot-in-the-door](https://en.wikipedia.org/wiki/Foot-in-the-door_technique) sales technique works. Before we can accept the most positive affirmation, we instinctively start out with a more modest one, in order to minimize cognitive dissonance. Moreover, going over these affirmations in that order is a very good exercise for improving the reflex of transititioning from negative beliefs to positive ones.
 
 ## Belief as a self-fulfilling prophecy
 
