@@ -128,9 +128,21 @@ Note your feelings upon completing the therapy. One of the best features of SRT 
 
 You might also be feeling awkward, uncomfortable or indifferent. No method is perfect and works on all cases. Some cases may require multiple sessions before positive effects can be observed. If that is/was the case, we would enjoy hearing [your experience and feedback](mailto:onur@solmaz.io).
 
-Don't lose the belief sheet, and preserve it in a folder. You can also use a notebook if you like. For each new belief sheet, repeat this process everyday for at least 6 months. You will probably notice some results before that. Still, prior experience shows that on average, 6 months are required to induce a permanent change in the human mind.
+Don't lose the belief sheet, and preserve it in a folder. You can also use a notebook if you like. For each new belief sheet, repeat this process everyday for at least 6 months. You will probably notice some results before that. Still, prior experience shows that on average, minimum 6 months are required to induce a permanent change in the human mind.
 
-## Negative reactions and extreme cognitive dissonance
+## Self-talk shaming
+
+There are multiple reasons that the practice might be awkward at first, and one of them is *self-talk shaming*. While it is considered perfectly normal to engage in [internal monologue](https://en.wikipedia.org/wiki/Internal_monologue), doing it out loud is condemned in many cultures. It is assumed in such cultures that "it is crazy to talk to oneself out loud".
+
+There might be many reasons, but the most prominent one is that people with mental illnesses *do* talk to themselves. People who are going through extremely uncomfortable conditions but otherwise physiologically fine, such as homeless or very lonely people, are also known to speak to themselves in public. This causes loud self-talk to be associated with mental conditions.
+
+But it does not work like that the other way around. A conscious affirmation is not uncontrolled or compulsive behavior. It is quite the opposite---an intentional statement of the most beautiful and admirable thing one can wish for oneself: changing for the better.
+
+If you are experiencing this shame, you can comfort yourself by asking yourself this: "If all the sentences written on this paper are true or can be true, why should I feel shame for reading them out loud?" In terms of feeling, there should be no difference from, say, reading a book, or an article.
+
+Like in any other spiritual practice, the awkwardness subsides with practice, and motivational self-talk becomes second nature. Once you feel the value of that, you also understand how silly this shaming actually is.
+
+## Extreme cognitive dissonance
 
 Depending on the belief that is being massaged, the intensity of cognitive dissonance might exist on a scale from mild to extreme. It is absolutely necessary for the individual to receive the therapy in a trusted environment, to feel safe and secure. If the therapy triggers a state of extreme disturbance and causes pain, it should stop!
 
