@@ -3,9 +3,16 @@ layout: default
 title: Repetition Works
 ---
 
+Do you want to change a certain belief about yourself or the outside world, but don't know where to start? Then this might work for you.
+
+On this page, we introduce a type of [Cognitive Behavioral Therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) that focuses on adopting new beliefs and modifying existing ones. It is meant for self-administration, that is, changing one's own beliefs. We claim that individuals who are ready and willing to change their beliefs can achieve long-lasting positive effects, using the method we describe below.
+
+Before we can start talking about the method, we need to provide some context, and vital information. If you do not wish to read these, you can skip to the section called *SRT in a nutshell*.
+
+## Neurobiology of belief
+
 A [belief](https://en.wikipedia.org/wiki/Belief) is an attitude that something is the case, or that some proposition about the world is true. The information about the proposition and its truth value are all stored in the biological tissue of the human brain.
 
-In this work, we will outline a type of [Cognitive Behavioral Therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) that focuses on adopting new beliefs and modifying existing ones. This guide is meant for self-administration, that is, changing one's own beliefs.
 
 The biology of the human brain makes it possible to believe in anything. We will not go into the detail of what "true" is and how it is perceived---we assume that the feeling of trueness is evident to the reader. Just knowing the following biological facts is enough to understand what we present later on:
 
@@ -17,10 +24,6 @@ The biology of the human brain makes it possible to believe in anything. We will
 That's it. When the neural circuit encodes a belief, you can make it stronger by repeating it verbally, either through the [inner](https://en.wikipedia.org/wiki/Internal_monologue) or the outer voice. Doing so strengthens the connections in the neural circuit and makes it last longer. This phenomenon is called [neuroplasticity](https://en.wikipedia.org/wiki/Neuroplasticity).
 
 In this work, we present a scientific methodology that makes use of repetition-induced neuroplasticity in order to change the perception and beliefs related to one's own self and the outside world. We call it **Self Repetition Therapy**, or **SRT** for short. SRT makes use of introspection and affirmations to achieve long-lasting positive effects on the human mind and psyche.
-
-## Who it is intended for
-
-If you want to change a certain belief about yourself or the outside world but don't know where to start, this can work for you. For SRT to work, you should be ready and willing to change your beliefs. Otherwise, it may not be possible to achieve long-lasting effects.
 
 ## Where to start
 
