@@ -57,19 +57,13 @@ Congratulations for coming this far! Now, take a moment to note how you feel. Yo
 
 > <a href="https://pubmed.ncbi.nlm.nih.gov/18230848/" target="_blank">Kleim JA, Jones TA, *Principles of experience-dependent neural plasticity: implications for rehabilitation after brain damage*, J Speech Lang Hear Res. 2008 Feb; 51(1):225-39</a>
 >
-> **Principle 4: Repetition Matters**
->
-> Simply engaging a neural circuit in task performance is not sufficient to drive plasticity (see *Principle 3: Specificity section*). Repetition of a newly learned (or relearned) behavior may be required to induce lasting neural changes. For example, rats trained on a skilled reaching task do not show increases in synaptic strength (Monfils & Teskey, 2004), increases in synapse number, or map reorganization (Kleim et al., 2004) until after several days of training, despite making significant behavioral gains. Thus, some forms of plasticity require not only the acquisition of a skill but also the continued performance of that skill over time. It is hypothesized that the plasticity brought about through repetition represents the instantiation of skill within neural circuitry, making the acquired behavior resistant to decay in the absence of training (Monfils et al., 2005). The same phenomenon has been observed in studies of electrical stimulation–induced increases in synaptic strength within cortex.
->
->[...]
->
-> The role of repetition in driving plasticity and concomitant learning may be critical for rehabilitation. Plasticity may represent a surrogate marker of functional recovery indicative of behavioral change that is resistant to decay. We suggest that a sufficient level of rehabilitation is likely to be required in order to get the subject "over the hump"---that is, repetition may be needed to obtain a level of improvement and brain reorganization sufficient for the patient to continue to use the affected function outside of therapy and to maintain and make further functional gains.
+> **Principle 4: Repetition Matters** --- Simply engaging a neural circuit in task performance is not sufficient to drive plasticity. Repetition of a newly learned (or relearned) behavior may be required to induce lasting neural changes. [...] Thus, some forms of plasticity require not only the acquisition of a skill but also the continued performance of that skill over time. [...] Plasticity may represent a surrogate marker of functional recovery indicative of behavioral change [...] repetition may be needed to obtain a level of improvement and brain reorganization sufficient for the patient to continue to use the affected function outside of therapy and to maintain and make further functional gains.
 
 and
 
 > <a href="https://journals.sagepub.com/doi/abs/10.1177/0963721419827854" target="_blank">Unkelbach C, Koch A, Silva RR, Garcia-Marques T., *Truth by Repetition: Explanations and Implications*. Current Directions in Psychological Science. 2019;28(3):247-253.</a>
 >
-> No matter which mental processes may underlie the repetition-induced truth effect, on a functional level, repetition increases subjective truth. The effect's robustness may be worrisome if one considers that information nowadays is not randomly but strategically repeated. For example, the phenomenon of the "filter bubble" (Pariser, 2011) suggests that people get verbatim and paraphrased repetition only of what they already know and believe. As discussed, logically, this should not strengthen information's subjective truth. However, as discussed above, repetition does influence subjective truth psychologically.
+> No matter which mental processes may underlie the repetition-induced truth effect, on a functional level, repetition increases subjective truth. [...] repetition does influence subjective truth psychologically.
 
 <!-- - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027716303110" target="_blank">Unkelbach C, Rom SC, *A referential theory of the repetition-induced truth effect*, Cognition 2017 Mar; 160: p110-126</a> -->
 
