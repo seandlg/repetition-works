@@ -235,7 +235,7 @@ We also anticipate a wave of criticism against SRT, calling it pseudoscience. Su
 | Belief *establishes* feedback loops | Doubt shows how to *break out* of feedback loops |
 | Belief *creates* truths | Doubt *destroys* existing truths and *reveals* new truths |
 
-Thus, we proclaim the two most important *tools* for changing one's own mind: the *question* and the *affirmation*. To change a belief, questioning by itself might not be enough---you might still need to use the belief tool, in order to replace it with another one.
+Thus, we proclaim the two most important *tools* for changing one's own mind: the *question* and the *affirmation*. To change a belief, questioning by itself might not be enough---you might still need to use repetition to achieve lasting effects.
 
 ## Relation to Cognitive Behavioral Therapy
 
@@ -253,9 +253,11 @@ So, SRT is a barebones version of CBT which only focuses on changing beliefs.
 
 ## About
 
-This is an undertaking by [Onur Solmaz](https://twitter.com/OnurHSolmaz) to make Cognitive Behavioral Therapy cheaper to attain (free), easier to apply and generally more accessible to the masses. His goal is to turn it into a global movement and benefit billions of people.
+This is an undertaking by [Onur Solmaz](https://twitter.com/OnurHSolmaz) to make [Cognitive Behavioral Therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) cheaper to attain (free), easier to apply and generally more accessible to the masses. He wants to do to [Law of Attraction](https://en.wikipedia.org/wiki/Law_of_attraction_(New_Thought)) what [Jon Kabat-Zinn](https://en.wikipedia.org/wiki/Jon_Kabat-Zinn) did to [meditation](https://en.wikipedia.org/wiki/Meditation). His goal is to turn it into a global movement and benefit billions of people.
 
-You can view the source of this website on [GitHub](https://github.com/osolmaz/repetition-works/). You can also give feedback by creating an [issue](https://github.com/osolmaz/repetition-works/issues) and contribute to the website by creating a pull request.
+This is work in progress. Feedback is appreciated.
+
+You can view the source of this website on [GitHub](https://github.com/osolmaz/repetition-works/). Create an [issue](https://github.com/osolmaz/repetition-works/issues) or contribute to this website by creating a pull request.
 
 <!-- [RSS feed](/feed.xml) -->
 
