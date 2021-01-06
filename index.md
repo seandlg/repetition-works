@@ -127,7 +127,17 @@ You might also be feeling awkward, uncomfortable or indifferent. No method is pe
 
 Don't lose the belief sheet, and preserve it in a folder. You can also use a notebook if you like. For each new belief sheet, repeat this process everyday for at least 6 months. You will probably notice some results before that. Still, prior experience shows that on average, minimum 6 months are required to induce a permanent change in the human mind.
 
-## Self-talk shaming
+## Possible holdbacks
+
+The individual might feel bad and discouraged from applying SRT, for a couple of reasons. We give the major ones below:
+
+- Self-talk shaming
+- Extreme cognitive dissonance
+- Fear of overconfidence
+
+Understanding the context of each one might be helpful in relieving these holdbacks.
+
+### Self-talk shaming
 
 There are multiple reasons that the practice might be awkward at first, and one of them is *self-talk shaming*. While it is considered perfectly normal to engage in [internal monologue](https://en.wikipedia.org/wiki/Internal_monologue), doing it out loud is condemned in many cultures. It is assumed in such cultures that "it is crazy to talk to oneself out loud".
 
@@ -139,7 +149,7 @@ If you are experiencing this shame, you can comfort yourself by asking yourself 
 
 Like in any other spiritual practice, the awkwardness subsides with practice, and motivational self-talk becomes second nature. Once you feel the value of that, you also understand how silly this shaming actually is.
 
-## Extreme cognitive dissonance
+### Extreme cognitive dissonance
 
 Depending on the belief that is being massaged, the intensity of cognitive dissonance might exist on a scale from mild to extreme. It is absolutely necessary for the individual to receive the therapy in a trusted environment, to feel safe and secure. If the therapy triggers a state of extreme disturbance and causes pain, it should stop!
 
@@ -148,6 +158,21 @@ It is important to understand that all beliefs exist for a reason---even negativ
 Moreover, the human stress response has evolved to ensure survival, even though it could cost the individual their wellbeing in the long term. Individuals that come from difficult backgrounds would find a lot of evidence that chronic negativity, mistrust and stress work in their favor, compelling them to do what is necessary to survive. Not only such cases need to enter a completely safe environment in order to change, they might take a long time to show progress, as the fear that hinders their positivity is the greatest of them all: the fear of death.
 
 SRT is most helpful to those who are consciously willing to change, but do not know how to. It might still be helpful to those who have the potential to change, but are not conscious of it. Finally, it might do harm to those who are not ready to change. As with any psychological intervention, it should never be forced onto someone.
+
+### Fear of overconfidence
+
+A [leveling mechanism](https://en.wikipedia.org/wiki/Leveling_mechanism) is a practice that acts to ensure social equality, usually by *shaming* or *humbling* members of a group that have the possibility of *becoming influential*. In Australia and New Zealand, this is known as "[cutting down the tall poppy](https://en.wikipedia.org/wiki/Tall_poppy_syndrome)". The idea is that poppies should grow at the same rate, and always remain on an equal level. Compliments are condemned in such cultures, and people are not used to saying encouraging things to each other. Sincere positivity might be hard to come by, especially among men.
+
+There is a perfect [Darwinian](https://en.wikipedia.org/wiki/Darwinism) explanation to all this. Imagine a hierarchical society, where [lower class](https://en.wikipedia.org/wiki/Social_class#Lower_class) people realized that they could empower themselves through this technique and do better. In the long term, this would result in increased upward mobility and a reorganization of the society. However, in traditional societies, *there is not enough room for everyone to be an entrepreneur and a business owner*---somebody has to follow orders and do the work that the [upper class](https://en.wikipedia.org/wiki/Social_class#Upper_class) finds degrading. Otherwise, that society could stop functioning.
+
+For that reason, leveling mechanisms have emerged independently around the globe, mostly in societies that went through precarious conditions. Each class is affected differently by the mechanism:
+
+- It ensures that the lower and middle classes stay put, and keep doing the rough work.
+- It injects guilt and fear to the upper class, so that they do not think too highly of themselves, and do not forget about the rest of the society.
+
+A major sign of being affected by a leveling mechanism is a *fear of overconfidence*. Individuals who have this fear equate having a positive mindset about one's own qualities to being arrogant and cocky. They find evidence in cases where a person is both arrogant and seemingly overconfident.
+
+This is a fallacy! Arrogance is a side-effect of compensating for insecurities. A truly self-loving and self-confident person would not be arrogant, and instead find it more comfortable to be humble. That is because staying cocky requires a lot of effort, such as maintaining a brittle self-image.
 
 ## Tone escalation
 
